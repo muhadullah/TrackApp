@@ -24,6 +24,5 @@ ex. Friends page -- how to make a functional friends system? add people by usern
     tuning page --- how to include excel forms that calculate stock vs desired settings? 
     
     Tracks page --- idea = select a track, pulls up map, can click each numbered turn & add in notes
-                   
-   Tracks page  --- import data from other app (Track addict -- 
-                    already has all track day recorded data like lap times, speeds, gforce)
+    
+    Tracks page  --- import data from other app (Track addict - records data like lap times, speeds, gforce etc.)
