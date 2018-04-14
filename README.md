@@ -10,10 +10,10 @@ Things To do:
   "ACTION_MAIN activity: Start up as the initial activity of a task, with no data input and no returned output."
   What is main activity for tho
 
-3a. Login page should be set as: ?
+3. a) Login page should be set as: ?
     "CATEGORY_LAUNCHER: The activity can be the initial activity of a task and is listed in the top-level application launcher`."
   
-  3b. how to use "google sign in" -- why have a sign in anyways? to store data in your account instead of only locally / on phone?
+  3. b) how to use "google sign in" -- why have a sign in anyways? to store data in your account instead of only locally / on phone?
 
 4. Edit each indv. Page / Activity to make functional & add content
 
