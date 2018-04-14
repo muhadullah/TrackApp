@@ -18,7 +18,10 @@ Things To do:
 4. Edit each indv. Page to make functional & add content
 
 ex. Friends page -- how to make a functional friends system? add people by username / fb / email, watch their stats, comment etc.
+    
     tuning page -- how to import database of stock settings for....all sports bikes?
+    
     tuning page --- how to include excel forms that calculate stock vs desired settings? (image of form already in app on page as example)
+    
     Tracks page --- idea = select a track, pulls up map, can click each numbered turn & add in notes
                     OR import data from other app (Track addict -- already has all track day recorded data like lap times, speeds, gforce)
