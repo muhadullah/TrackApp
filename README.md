@@ -23,7 +23,7 @@ examples:
     
     tuning page -- how to import database of stock settings for....all sports bikes?
     
-    tuning page --- how to include excel forms that calculate stock vs desired settings? 
+    tuning page --- how to include functions / forms that calculate stock vs desired settings? 
     
     Tracks page --- idea = select a track, pulls up map, can click each numbered turn & add in notes
     
