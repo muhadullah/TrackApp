@@ -1,0 +1,30 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	>
+	<Spinner
+		android:id="@+id/spinner1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:spinnerMode="dropdown"
+		/>
+	<ListView
+		android:id="@+id/listview1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:choiceMode="none"
+		/>
+	<TextView
+		android:id="@+id/textview4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="use lists and spinners to avoid having too many views and buttons"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		/>
+</LinearLayout>

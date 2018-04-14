@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tuning.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\tuning.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sheet.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchtrack.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\searchtrack.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friends.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tracks.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\tracks.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\homepage.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\garage.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\garage.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myprofile.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\skills.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\skills.xml"
+    },
+    {
+        "merged": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats.xml",
+        "source": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\layout\\stats.xml"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\gzccgw\\Desktop\\Track app april\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    }
+]

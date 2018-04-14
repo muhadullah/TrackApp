@@ -1,0 +1,59 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	>
+	<Button
+		android:id="@+id/tracks"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="My Tracks"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		/>
+	<Button
+		android:id="@+id/garage"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="My Garage"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		/>
+	<Button
+		android:id="@+id/friends"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Friends"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		/>
+	<Button
+		android:id="@+id/stats"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Stats"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		/>
+	<Button
+		android:id="@+id/skills"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Skill Card "
+		android:textSize="12sp"
+		android:textColor="#000000"
+		/>
+	<ImageView
+		android:id="@+id/imageview1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:src="@drawable/default_image"
+		android:scaleType="center"
+		/>
+</LinearLayout>

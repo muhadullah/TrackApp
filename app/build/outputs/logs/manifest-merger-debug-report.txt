@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:1:1-59:12
+	package
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:3:2-29
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:2:2-60
+	android:versionCode
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:4:2-58:16
+	android:label
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:6:3-28
+	android:allowBackup
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:5:3-29
+	android:icon
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:7:3-36
+	android:theme
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:8:3-34
+activity#com.my.newproject.MainActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:9:3-17:14
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:12:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:11:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:10:4-32
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:13:4-16:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:14:5-56
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:15:5-64
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:15:15-62
+activity#com.my.newproject.HomepageActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:18:3-21:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:21:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:20:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:19:4-36
+activity#com.my.newproject.MyprofileActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:22:3-25:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:25:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:24:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:23:4-37
+activity#com.my.newproject.SkillsActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:26:3-29:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:29:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:28:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:27:4-34
+activity#com.my.newproject.GarageActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:30:3-33:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:33:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:32:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:31:4-34
+activity#com.my.newproject.TracksActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:34:3-37:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:37:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:36:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:35:4-34
+activity#com.my.newproject.FriendsActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:38:3-41:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:41:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:40:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:39:4-35
+activity#com.my.newproject.StatsActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:42:3-45:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:45:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:44:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:43:4-33
+activity#com.my.newproject.SearchtrackActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:46:3-49:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:49:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:48:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:47:4-39
+activity#com.my.newproject.TuningActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:50:3-53:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:53:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:52:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:51:4-34
+activity#com.my.newproject.SheetActivity
+ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:54:3-57:42
+	android:screenOrientation
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:57:4-40
+	android:configChanges
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:56:4-50
+	android:name
+		ADDED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml:55:4-33
+uses-sdk
+INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gzccgw\Desktop\Track app april\app\src\main\AndroidManifest.xml
