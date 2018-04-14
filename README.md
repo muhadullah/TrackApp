@@ -17,7 +17,9 @@ Things To do:
 
 4. Edit each indv. Page / Activity to make functional & add content
 
-ex. Friends page -- how to make a functional friends system? add people by username / fb / email, watch their stats, comment etc.
+examples:
+    
+    Friends page -- how to make a functional friends system? add people by username / fb / email, watch their stats, comment etc.
     
     tuning page -- how to import database of stock settings for....all sports bikes?
     
