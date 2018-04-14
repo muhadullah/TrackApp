@@ -15,7 +15,7 @@ Things To do:
   
   3b. how to use "google sign in" -- why have a sign in anyways? to store data in your account instead of only locally / on phone?
 
-4. Edit each indv. Page to make functional & add content
+4. Edit each indv. Page / Activity to make functional & add content
 
 ex. Friends page -- how to make a functional friends system? add people by username / fb / email, watch their stats, comment etc.
     
