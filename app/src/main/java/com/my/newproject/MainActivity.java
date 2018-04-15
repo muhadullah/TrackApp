@@ -15,16 +15,19 @@ import android.util.*;
 import android.webkit.*;
 import android.animation.*;
 import android.view.animation.*;
+
+import com.google.firebase.auth.FirebaseAuth;
+
 import java.util.*;
 import java.text.*;
 
 
 public class MainActivity extends Activity {
-
 	private TextView title;
 	private TextView login;
 	private Button enter;
 	private TextView textview1;
+	private Button loginPage;
 
 
 	private ArrayList<String> tracklist = new ArrayList<String>();
@@ -45,8 +48,18 @@ public class MainActivity extends Activity {
 		login = (TextView) findViewById(R.id.login);
 		enter = (Button) findViewById(R.id.enter);
 		textview1 = (TextView) findViewById(R.id.textview1);
+		loginPage = (Button) findViewById(R.id.loginPage);
 
 
+		loginPage.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View _v) {
+				intent1.setClass(getApplicationContext(), LoginActivity2.class);
+				//intent1.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+				startActivity(intent1);
+			}
+
+		 });
 
 		enter.setOnClickListener(new View.OnClickListener() {
 			@Override

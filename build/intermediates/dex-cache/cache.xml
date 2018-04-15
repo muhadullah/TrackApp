@@ -3,6 +3,69 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\5155fad9e5b102823cbb1fe747dc6f903e953838\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_654b52fd9b239682d82d7665545a3614fe3d1461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\dea78fdd5e630b194240e47d1b5cb61b5e1451c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2c98607384587b1914c7315f3454cc236024a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_aff77b054d490f51e0bb748abf05de7296b443b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\52f1cbf91d9a30b2e8c05e29a55184a649bb33d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed638a80f8ad721488fed1d32bc84f8531a38287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\04f51b214d10f8780b4cb79928d7ce280503b3f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae0d18524a3dfb409f325154ae1a3f3a6bd91c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\5ec0490cf0c570e2b0698b070a8cf758e1052400\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43777ad2c3f87b64ced35a875ce2befa178a23da">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_007588431a3309c1cc7f949598b2e49def19155e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d155bdb8a66cc8266e130b21a493b935f7b4711e">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df9ac8af1ef2daa298a3d03f893d1d5f1706b2de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +75,111 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\gzccgw\.android\build-cache\a3e4d60eef0a2b0cd196e58c740940ba04a439df\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4ea768a6f5edf9166b97f475ad73aa7b09705810">
-        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df9ac8af1ef2daa298a3d03f893d1d5f1706b2de\classes.dex" />
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a06e57d12a31a234cfb19515740830a6de5c18a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\1d9c4bb0f5691d43dc001c484b31ae579ce38c83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a61b6a56f9bdf0e271cf181de22184717db848a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\5fd25410cbdc329e9d435c7ccabd3b4e1889085a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0efd633b284e585c8332e284cc1bac048bcd2f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\4d4524459240a4f48a6b0f770c3a2330172f72c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_662926e5319904cb785ef72e7a2ffb7291efd4e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\5a841c7beee7295d4d470edc42321adbfde76266\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c9dde3866f60967d73035b3445bb0f703429612">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3d53652cdc2878a0f7ae1c83c44691319e80b87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\6320715d9bb676e7067e6e24a4d67ffaccf6a34d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_348847f9c0c9508e95e40bb0eab51e80c83ad4f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\8d3956ec0a75ec053362e334337c295098b16164\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e6aaba15dd544d2c2ca50ce07efe8b4d30afeed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\c9075f323dbd6ebef4bac058ffbc64adf19c88fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4100d5b5827ce370085f29c12660ef2d1751413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\f47d6b314c99a1343814a87fc1f37f5464b5a23b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ea7168f0cc2e8510b08e4c980e34e6d5570b0c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.android\build-cache\019815a374f4a7cd0c0431ad0f9ab25ca9adb399\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a804a8bc3b43c0cab61eb0e02ea17c63d64efa90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_f53d60f91eea6a5e84854c977aac30451fd04c68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gzccgw\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\gzccgw\Desktop\Track app april\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_c825871a383921a758e3514eed01f838d17ccf95\classes.dex" />
     </item>
 
 </items>

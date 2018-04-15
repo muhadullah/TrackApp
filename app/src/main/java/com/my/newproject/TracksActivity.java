@@ -20,7 +20,6 @@ import java.text.*;
 
 
 public class TracksActivity extends Activity {
-
 	private Spinner spinner4;
 	private Button button1;
 	private ImageView imageview1;
